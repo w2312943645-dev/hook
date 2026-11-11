@@ -25,9 +25,9 @@ android {
     }
 
     buildFeatures { buildConfig = false }
+}
 
-    // compile-only: NOT packaged (host runtime FQNs stay authoritative).
-    dependencies {
-        compileOnly(files("../../build-support/xposed-stub.jar"))
-    }
+// compile-only: NOT packaged (host runtime FQNs stay authoritative).
+dependencies {
+    compileOnly(files("../../build-support/xposed-stub.jar"))
 }
