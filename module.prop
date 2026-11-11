@@ -1,0 +1,8 @@
+id=local.lsposed.biubiu-global-capture
+name=漂呗·捕获面全局(Hook 模块)
+version=0.1
+versionCode=1
+author=本地逆向研究
+description=跳过加速隧道 builder 的 allowed/disallowed 名单施加, 捕获语义退化为框架默认(空名单=全局). 行为边界见仓库 README.
+minApiVersion=24
+targetApiVersion=30

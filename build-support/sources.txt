@@ -1,0 +1,6 @@
+src/de/robv/android/xposed/IXposedHookLoadPackage.java
+src/de/robv/android/xposed/XC_MethodHook.java
+src/de/robv/android/xposed/XC_MethodReplacement.java
+src/de/robv/android/xposed/XposedBridge.java
+src/de/robv/android/xposed/XposedHelpers.java
+src/de/robv/android/xposed/callbacks/XC_LoadPackage.java

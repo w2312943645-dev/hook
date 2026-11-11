@@ -1,0 +1,7 @@
+local.lsposed.globalcapture.app-pngs-0 /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/build/generated/res/pngs/debug
+local.lsposed.globalcapture.app-resValues-1 /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/build/generated/res/resValues/debug
+local.lsposed.globalcapture.app-packageDebugResources-2 /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+local.lsposed.globalcapture.app-packageDebugResources-3 /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+local.lsposed.globalcapture.app-debug-4 /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/build/intermediates/merged_res/debug/mergeDebugResources
+local.lsposed.globalcapture.app-debug-5 /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/debug/res
+local.lsposed.globalcapture.app-main-6 /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/res

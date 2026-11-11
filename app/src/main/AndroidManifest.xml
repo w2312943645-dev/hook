@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Pure Hook module: no components/permissions/resources. -->
+    <!-- Package name comes from namespace in app/build.gradle.kts (AGP 7+). -->
+    <application />
+</manifest>

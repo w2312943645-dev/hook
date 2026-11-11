@@ -1,0 +1,27 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml:2:1-6:12
+INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml:2:1-6:12
+	package
+		INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml:5:5-20
+INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml:5:5-20
+	android:extractNativeLibs
+		INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml
+INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml

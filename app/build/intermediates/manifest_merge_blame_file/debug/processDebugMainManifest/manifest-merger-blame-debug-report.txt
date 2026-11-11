@@ -1,0 +1,17 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="local.lsposed.globalcapture"
+4    android:versionCode="1"
+5    android:versionName="0.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="24"
+9        android:targetSdkVersion="34" />
+10    <!-- Pure Hook module: no components/permissions/resources. -->
+11    <!-- Package name comes from namespace in app/build.gradle.kts (AGP 7+). -->
+12    <application
+12-->/sdcard/apk/p_2ff1c6aaa9294941/lsposed-global-capture/app/src/main/AndroidManifest.xml:5:5-20
+13        android:debuggable="true"
+14        android:extractNativeLibs="false" />
+15
+16</manifest>
